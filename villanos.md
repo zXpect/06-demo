@@ -2,3 +2,7 @@
 Joker
 
 nuevo
+
+# Notas
+
+Nueva nota
